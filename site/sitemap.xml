@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://example.com/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/"/>
+    </url>
+    <url>
+        <loc>https://example.com/assets/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/assets/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/assets/"/>
+    </url>
+    <url>
+        <loc>https://example.com/help/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/"/>
+    </url>
+    <url>
+        <loc>https://example.com/help/faq/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/faq/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/help/features/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/features/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/features/"/>
+    </url>
+    <url>
+        <loc>https://example.com/help/getting-started/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/hi/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/hi/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/assets/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/assets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/assets/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/help/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/help/faq/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/help/features/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/features/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/features/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/help/getting-started/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/help/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/help/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://example.com/hi/hi/</loc>
+        <lastmod>2025-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://example.com/hi/hi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/hi/"/>
+    </url>
+</urlset>
