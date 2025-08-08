@@ -1,9 +1,24 @@
----
-title: Home
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My GitHub Site</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background: #f9f9f9;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Site</h1>
+  <p>This is a simple GitHub Pages site with custom HTML.</p>
 hide:
   - navigation
----
- 
 # 👋 Welcome to My Project
  
 This is the homepage content.
@@ -55,4 +70,5 @@ This is the homepage content.
     console.log("Hello, world!");
     ```
 has context menu
+
 
